@@ -9,7 +9,7 @@ As a dedicated software developer, I've fine-tuned my technical expertise in cre
 ## 🎯 My Technical Expertise
 
 ### Backend Developer at Dowell Research, UK (Remote)
-_Feb 2023 - Jun 2023_
+_Feb 2022 - Jun 2023_
 - 🌐 Developed RESTful APIs and WebSockets for real-time messaging.
 - 💾 Managed databases for user data and chat histories.
 - 🔧 Authored server-side logic for efficient chat operations.
