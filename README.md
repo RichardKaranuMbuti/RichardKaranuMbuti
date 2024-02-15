@@ -41,7 +41,7 @@ _Jul 2023 - Present_
 
 - **BSc in Computer Technology**
   - 🏛 Jomo Kenyatta University of Agriculture and Technology (JKUAT)
-  - 📅 2019 – 2025 (Expected)
+  - 📅 2019 – 2024
 
 ## 💡 Soft Skills
 
