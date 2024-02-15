@@ -4,7 +4,7 @@ Welcome to my GitHub space where technology meets innovation, and ideas come to 
 
 ## 👨‍💻 About Me
 
-As a dedicated software developer, I've fine-tuned my technical expertise in creating advanced AI solutions. My journey has been marked by successful engagements and a passion for pushing the boundaries of technology.
+As a dedicated software developer, I've fine-tuned my technical expertise in creating software engineering solutions. My journey has been marked by successful engagements and a passion for pushing the boundaries of technology.
 
 ## 🎯 My Technical Expertise
 
@@ -33,7 +33,8 @@ _Jul 2023 - Present_
 - **Databases**: MySQL, PostgreSQL
 - **Machine Learning**: Intermediate level in Python and R
 - **Version Control**: Git, GitHub
-- **Others**: CI/CD Pipelines, Package Management
+- **Cloud and DevOps**: AWS,Azure,Docker 🐳, Azure DevOps,CI/CD
+- **Others**:  Package Management, Linux OS
 
 ## 🎓 Education
 
