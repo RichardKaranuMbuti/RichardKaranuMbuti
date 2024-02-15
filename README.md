@@ -28,8 +28,8 @@ _Jul 2023 - Present_
 
 ## 🛠 Tech Stack
 
-- **Languages**: Python 🐍, JavaScript, HTML & CSS, C++, R, Java
-- **Frameworks/Tools**: Django, Spring Boot, Docker 🐳, Azure DevOps
+- **Languages**: Python 🐍,Java,  JavaScript, C , C++, R, , HTML & CSS
+- **Frameworks/Tools**: Vue.js, React.js, Django, Spring Boot,React-Native
 - **Databases**: MySQL, PostgreSQL
 - **Machine Learning**: Intermediate level in Python and R
 - **Version Control**: Git, GitHub
