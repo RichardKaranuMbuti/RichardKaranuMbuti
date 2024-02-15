@@ -51,13 +51,9 @@ _Jul 2023 - Present_
 
 ## 🌱 I’m currently learning
 
-- 🌐 Advanced Software Architecture
+- 🌐 Systems Design and Software Architecture
 - 🧠 Deep Learning and Machine Learning
 - 🤖 Exploring new trends in AI
-
-## 📊 GitHub Stats
-
-![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardKaranuMbuti&show_icons=true&theme=radical)
 
 ## 📬 Get in Touch
 
