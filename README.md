@@ -6,6 +6,16 @@ Welcome to my GitHub space where technology meets innovation, and ideas come to 
 
 As a dedicated software Engineer, I've fine-tuned my technical expertise in creating software engineering solutions. My journey has been marked by successful engagements and a passion for pushing the boundaries of technology.
 
+## 🛠 Tech Stack
+
+- **Languages**: Python 🐍,Java,  JavaScript, C , C++, R, , HTML & CSS
+- **Frameworks/Tools**: Vue.js, React.js, Django, Spring Boot,React-Native
+- **Databases**: MySQL, PostgreSQL
+- **Machine Learning**: Intermediate level in Python and R
+- **Version Control**: Git, GitHub
+- **Cloud and DevOps**: AWS,Azure,Docker 🐳, Azure DevOps,CI/CD
+- **Others**:  Package Management, Linux OS
+
 ## 🎯 My Technical Expertise
 
 ### Backend Developer at Dowell Research, UK (Remote)
@@ -26,15 +36,6 @@ _Jul 2023 - Present_
 - 📢 Engaging with stakeholders, communicating project status and opportunities.
 - 🔍 Researching and integrating developments in LLMs and AI into solutions.
 
-## 🛠 Tech Stack
-
-- **Languages**: Python 🐍,Java,  JavaScript, C , C++, R, , HTML & CSS
-- **Frameworks/Tools**: Vue.js, React.js, Django, Spring Boot,React-Native
-- **Databases**: MySQL, PostgreSQL
-- **Machine Learning**: Intermediate level in Python and R
-- **Version Control**: Git, GitHub
-- **Cloud and DevOps**: AWS,Azure,Docker 🐳, Azure DevOps,CI/CD
-- **Others**:  Package Management, Linux OS
 
 ## 🎓 Education
 
