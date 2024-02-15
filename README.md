@@ -11,7 +11,7 @@ As a dedicated software Engineer, I've fine-tuned my technical expertise in crea
 - **Languages**: Python 🐍,Java,  JavaScript, C , C++, R, , HTML & CSS
 - **Frameworks/Tools**: Vue.js, React.js, Django, Spring Boot,React-Native
 - **Databases**: MySQL, PostgreSQL
-- **Machine Learning**: Intermediate level in Python and R
+- **Machine Learning and Data Science**: Intermediate level in Python and R
 - **Version Control**: Git, GitHub
 - **Cloud and DevOps**: AWS,Azure,Docker 🐳, Azure DevOps,CI/CD
 - **Others**:  Package Management, Linux OS
