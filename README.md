@@ -1,63 +1,70 @@
-# Hi there, I'm Richard Karanu 🚀
-
-Welcome to my GitHub space where technology meets innovation, and ideas come to life.
-
-## 👨‍💻 About Me
-
-As a dedicated software Engineer, I've fine-tuned my technical expertise in creating software engineering solutions. My journey has been marked by successful engagements and a passion for pushing the boundaries of technology.
-
-## 🛠 Tech Stack
-
-- **Languages**: Python 🐍,Java,  JavaScript, C , C++, R, , HTML & CSS
-- **Frameworks/Tools**: Vue.js, React.js, Django, Spring Boot,React-Native
-- **Databases**: MySQL, PostgreSQL
-- **Machine Learning and Data Science**: Intermediate level in Python and R
-- **Version Control**: Git, GitHub
-- **Cloud and DevOps**: AWS,Azure,Docker 🐳, Azure DevOps,CI/CD
-- **Others**:  Package Management, Linux OS
-
-## 🎯 My Technical Expertise
-
-### Backend Developer at Dowell Research, UK (Remote)
-_Feb 2022 - Jun 2023_
-- 🌐 Developed RESTful APIs and WebSockets for real-time messaging.
-- 💾 Managed databases for user data and chat histories.
-- 🔧 Authored server-side logic for efficient chat operations.
-
-### Lead Engineer at Miksi.io, Croatia (Remote)
-_Jul 2023 - Present_
-- 🏗️ Architecting scalable and robust system architectures for enterprise-level AI agents.
-- 👥 Leading and orchestrating a team of developers and data scientists.
-- 🔄 Managing the project lifecycle, ensuring deliverables meet quality standards.
-- 🚀 Establishing CI/CD pipelines for automated testing and deployment.
-- 📦 Leading package management and distribution, setting up repositories.
-- ⚙️ Conducting server maintenance and optimization for AI model performance.
-- 📊 Implementing monitoring systems and reporting to stakeholders.
-- 📢 Engaging with stakeholders, communicating project status and opportunities.
-- 🔍 Researching and integrating developments in LLMs and AI into solutions.
+# 🌌 Welcome to My GitHub Space!
 
 
-## 🎓 Education
 
-- **BSc in Computer Technology**
-  - 🏛 Jomo Kenyatta University of Agriculture and Technology (JKUAT)
-  - 📅 2019 – 2024
+Hi there! I'm **Richard Karanu**, a passionate **Full Stack Software Engineer** from **Nairobi, Kenya**. I thrive on transforming innovative ideas into reality through technology.
 
-## 💡 Soft Skills
+---
 
-- 🗣 Effective Communication
-- 🌟 Leadership
-- 🔄 Agile Project Management
+## 💻 About Me
 
-## 🌱 I’m currently learning
+I'm an enthusiastic software developer with a strong foundation in various programming languages and frameworks. I love exploring new technologies and pushing the boundaries of what's possible in software development.
 
-- 🌐 Systems Design and Software Architecture
-- 🧠 Deep Learning and Machine Learning
-- 🤖 Exploring new trends in AI
+### **What I’m Diving Into:**
+- Mobile tech stacks: **Flutter** and **React Native** 📱
+- Expanding my knowledge in **Kubernetes** ☁️
 
-## 📬 Get in Touch
+---
 
-- 📱 Phone: +254701291911
+## ⚙️ Tech Stack
+
+
+**Languages**:
+- ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+**Frameworks & Libraries**:
+- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+- ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
+**Databases**:
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Cloud & DevOps**:
+- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Tools**:
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- ![CI/CD](https://img.shields.io/badge/CI%2FCD-142029?style=for-the-badge&logo=jenkins&logoColor=white)
+
+---
+
+## 🌱 Currently Learning
+
+- **Systems Design & Software Architecture** 🏗️
+- **Deep Learning & Machine Learning** 🤖
+- Exploring **AI Trends** 🌟
+
+---
+
+## 📫 Get in Touch
+
+Feel free to reach out!
+
 - 📧 Email: [officialforrichardk@gmail.com](mailto:officialforrichardk@gmail.com)
 - 🔗 LinkedIn: [Richard Karanu](https://www.linkedin.com/in/richard-karanu-94b572241/)
 - 🖥️ GitHub: [RichardKaranuMbuti](https://github.com/RichardKaranuMbuti)
+
+---
+
+## 🎨 Fun Fact
+
+I’m passionate about open-source contributions and believe that **collaboration is key to innovation**! Let's build something amazing together 🌍✨
